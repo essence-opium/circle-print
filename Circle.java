@@ -4,7 +4,7 @@ public class Circle {
 
     public void printCircle(){
 
-        System.out.println("Asterisks!");
+        System.out.println("Second branch");
 
     }
 }
