@@ -4,7 +4,10 @@ public class Circle {
 
     public void printCircle(){
 
-        System.out.println("Second branch");
+        System.out.println("Third branch");
+
+        System.out.println("Try to merge with second one");
+
 
     }
 }
